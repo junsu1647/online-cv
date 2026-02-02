@@ -20,7 +20,6 @@ sidebar:
 
   languages:
     title: Languages
-    info:
       - idiom: Korean
         level: Native
       - idiom: English
@@ -28,8 +27,6 @@ sidebar:
         
 
   interests:
-    title: Interests
-    info:
       - item: Physical Design
         link:
       - item: AI EDA
