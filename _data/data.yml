@@ -44,14 +44,12 @@ career-profile:
     
 
 education:
-  title: EDUCATION
-  info:
-    - degree: MS. in Graduate School of Semiconductor Technology
+    - degree: MSc in Graduate School of Semiconductor Technology
       university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
       time: Feb. 2026 - Present
       details: |
         Advisor: Prof. Seokhyeong Kang
-    - degree: BS. in Electronics and Electrical Engineering
+    - degree: BSc in Electronics and Electrical Engineering
       university: Chung-Ang University, Seoul, South Korea
       time: Mar. 2020 - Feb. 2026
       details: |
