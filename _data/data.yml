@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Junsu Hwang
-  tagline: Master candidate of CSDL, POSTECH in Korea
+  tagline: Master candidate of CSDL, POSTECH in South Korea
   avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,7 +28,7 @@ sidebar:
   interests:
       - item: Physical Design
         link:
-      - item: AI EDA
+      - item: Electronic Design Automation
         link:
 
 
@@ -37,14 +37,14 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Junsu Hwang received the BS. degree in Electronics and Electrical Engineering from Chung-Ang University, Seoul, South Korea, in 2026. He is currently the MS. candidate in Graduate School of Semiconductor Technology in Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current research interests include Physical Design and AI EDA. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
+    Junsu Hwang received the BS. degree in Electronics and Electrical Engineering from Chung-Ang University, Seoul, South Korea, in 2026. He is currently the MS. candidate in Graduate School of Semiconductor Technology in Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current research interests include Physical Design and EDA. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
 
 
     
 
 education:
     - degree: MSc in Graduate School of Semiconductor Technology
-      university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
+      university: in CSDL, POSTECH (Pohang University of Science and Technology), Pohang, South Korea
       time: Feb. 2026 - Present
       details: |
         Advisor: Prof. Seokhyeong Kang
